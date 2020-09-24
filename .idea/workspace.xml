@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60fb4745-ce5c-4566-a9dc-36c6d0653d57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1clWnge4bIUd3svV75fEpppXAR7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="176" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="139" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arifb\IdeaProjects\Final Project\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Browser" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Browser" />
+      <module name="Final Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Run" />
+      <module name="Final Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Final Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="page2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page2" />
+      <module name="Final Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.page2" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60fb4745-ce5c-4566-a9dc-36c6d0653d57" name="Default Changelist" comment="" />
+      <created>1591103828653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591103828653</updated>
+      <workItem from="1591103831911" duration="18179000" />
+      <workItem from="1591248608817" duration="136000" />
+      <workItem from="1591281446909" duration="27576000" />
+      <workItem from="1591342646661" duration="34771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="78" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1591287294818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="78" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1536.824@0.0.1536.824" timestamp="1591287294818" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591106947134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591106947134" />
+    <state x="399" y="142" key="#com.intellij.ide.util.ExportDialog" timestamp="1591358021872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="142" key="#com.intellij.ide.util.ExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1591358021872" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1591115719487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591115719487" />
+    <state x="498" y="203" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1591346852170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="203" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1591346852170" />
+    <state x="58" y="159" width="1350" height="638" key="DiffContextDialog" timestamp="1591122836684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="58" y="159" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591122836684" />
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1591377841413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591377841413" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1591377841413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591377841413" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1591377841413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591377841413" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1591377841413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591377841413" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591123229119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591123229119" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591123229119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591123229119" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591123229119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591123229119" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591123229119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591123229119" />
+    <state x="724" y="200" key="GuiDesigner.FormSource.Dialog" timestamp="1591357488193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="724" y="200" key="GuiDesigner.FormSource.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1591357488193" />
+    <state x="555" y="294" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1591308027312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="294" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1591308027312" />
+    <state x="398" y="109" width="740" height="606" key="find.popup" timestamp="1591357343029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="109" width="740" height="606" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591357343029" />
+    <state width="660" height="265" key="javadoc.popup" timestamp="1591352075663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="660" height="265" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1591352075663" />
+    <state x="511" y="32" key="refactoring.ChangeSignatureDialog" timestamp="1591359540270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="32" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1591359540270" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591364500943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591364500943" />
+  </component>
+</project>
